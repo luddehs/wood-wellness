@@ -12,6 +12,12 @@
 header {
     background-color: rgb(235, 189, 189);
     font-family: 'Figtree', sans-serif;
+    position: fixed;
+    width: 100%;
+    z-index: 3;
+    top: 0;
+    padding: 0 1rem;
+
 }
 
 
