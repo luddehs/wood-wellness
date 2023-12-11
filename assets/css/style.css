@@ -49,6 +49,7 @@ main {
     background-color: rgb(130, 197, 219);
     /* Make main element pushes footer down */
     flex: 1 0 auto;
+    margin-top: 47px;
 }
 
 /* Footer */
