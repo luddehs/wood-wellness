@@ -29,6 +29,11 @@ header a {
     
 }
 
+/* Dropdown Nav */
+.dropdown:hover .dropdown-content {
+    display: block;
+
+}
 /* General Styles */
 body {
     min-height: 100vh;
@@ -61,6 +66,8 @@ footer {
     margin-bottom: 1em;
     display: inline-block;
     margin-right: 10px;
+
+
 
 }
 
