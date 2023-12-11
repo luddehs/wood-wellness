@@ -10,7 +10,7 @@
 
 /* Header */
 header {
-    background-color: rgb(235, 189, 189);
+    background-color: #cce0db;
     font-family: 'Figtree', sans-serif;
     position: fixed;
     width: 100%;
@@ -40,21 +40,27 @@ body {
     display: flex;
     flex-direction: column;
     /* Generic project styles */
-    background-color: #cce0db;
     font-family: 'Figtree', sans-serif;
 }
 
 /* Main Content */
 main { 
-    background-color: rgb(130, 197, 219);
     /* Make main element pushes footer down */
     flex: 1 0 auto;
     margin-top: 47px;
 }
 
+/* Hero section */
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url("../images/hero-image.JPEG") no-repeat center center/cover;
+
+}
+
 /* Footer */
 footer {
-    background-color: rgb(233, 224, 206);
+    background-color: #cce0db;
 }
 
 #menu {
