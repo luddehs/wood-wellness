@@ -17,6 +17,9 @@ header {
     z-index: 3;
     top: 0;
     padding: 0 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
 
 }
 
@@ -24,17 +27,6 @@ header a {
     text-decoration: none;
     color: inherit;
     
-}
-
-#menu {
-    text-size-adjust: 110%;
-    letter-spacing: 4px;
-    list-style-type: none;
-}
-
-#menu > li {
-    margin-bottom: 1em;
-
 }
 
 /* General Styles */
@@ -59,4 +51,16 @@ footer {
     background-color: rgb(233, 224, 206);
 }
 
+#menu {
+    text-size-adjust: 100%;
+    letter-spacing: 2px;
+    list-style-type: none;
+}
+
+#menu > li {
+    margin-bottom: 1em;
+    display: inline-block;
+    margin-right: 10px;
+
+}
 
