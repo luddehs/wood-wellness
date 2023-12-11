@@ -43,6 +43,13 @@ body {
     font-family: 'Figtree', sans-serif;
 }
 
+h1, h2, h3 {
+
+    letter-spacing: 2px;
+    color: #000000;
+
+}
+
 /* Main Content */
 main { 
     /* Make main element pushes footer down */
@@ -55,8 +62,26 @@ main {
     height: 600px;
     width: 100%;
     background: url("../images/hero-image.JPEG") no-repeat center center/cover;
+    position: relative;
 
 }
+
+#about-text {
+    background-color: rgba(132, 132, 132, 0.7);
+    font-size: 110%;
+    position: absolute;
+    bottom: 20px;
+    width: 60%;
+    min-height: 200px;
+    padding-top: 40px;
+    padding-left: 10px;
+}
+
+#about-text > h2, #about-text > p {
+    color: #ffffff;
+}
+
+
 
 /* Footer */
 footer {
