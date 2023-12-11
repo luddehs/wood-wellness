@@ -11,15 +11,19 @@ header {
 }
 
 
-/* Body */
+/* General Styles */
 body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /* Generic project styles */
     background-color: #cce0db;
 }
 
 /* Main Content */
 main { 
     background-color: rgb(130, 197, 219);
-    /* Make min element take up any surplus space to push footer down */
+    /* Make main element pushes footer down */
     flex: 1 0 auto;
 }
 
