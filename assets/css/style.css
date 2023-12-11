@@ -68,7 +68,19 @@ footer {
     display: inline-block;
     margin-right: 10px;
 
+}
 
+#social {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
 
 }
 
+#social i {
+    font-size: 140%;
+    padding: 5%;
+    color: #000000;
+}
