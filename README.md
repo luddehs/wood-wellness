@@ -14,6 +14,9 @@ Wood Wellness is a website that aims to showcase the desgin, philosophy and work
 ### Validator Testing
 
 ### Unfixed Bugs
+Navigation bar dropdown meny wont toggle vertically
+
+### Fixed Bugs
 
 ## Deployment
 

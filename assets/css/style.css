@@ -38,13 +38,29 @@ nav {
     padding: 0 1rem;
     left: 0;
     position: absolute;
+    top: 100%;
 }
 
 /* Dropdown Nav */
+#nav-dropdown:checked~nav {
+    display: block;
+}
+
+#nav-dropdown {
+    display: none;
+}
+
+.nav-dropdown-label {
+    font-size: 4rem;
+}
+
+/*
 .dropdown:hover .dropdown-content {
     display: block;
 
-}
+}*/
+
+
 /* General Styles */
 body {
     min-height: 100vh;
