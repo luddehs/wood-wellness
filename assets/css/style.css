@@ -20,6 +20,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
+    
 
 }
 
@@ -89,9 +90,9 @@ footer {
 }
 
 #menu {
-    text-size-adjust: 100%;
     letter-spacing: 2px;
     list-style-type: none;
+    font-size: 120%;
 }
 
 #menu > li {
@@ -99,6 +100,10 @@ footer {
     display: inline-block;
     margin-right: 10px;
 
+}
+
+.selected {
+    border-bottom: 4px dotted #000000;
 }
 
 #social {
