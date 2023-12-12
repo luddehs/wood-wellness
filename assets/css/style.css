@@ -146,3 +146,22 @@ footer {
     padding: 5%;
     color: #000000;
 }
+
+/* Media query: 768px -> */
+@media screen and (min-width: 768px) {
+    .nav-dropdown-label {
+        display: none;
+    }
+    
+    nav {
+        position: relative;
+        display: block;
+        width: fit-content;    
+    }
+
+    #menu > li {
+        padding-left: 1rem;
+    }
+
+
+}
