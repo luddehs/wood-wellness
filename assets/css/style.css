@@ -30,6 +30,16 @@ header a {
     
 }
 
+/* Navbar */
+nav {
+    display: none;
+    background-color: #cce0db;
+    width: 100%;
+    padding: 0 1rem;
+    left: 0;
+    position: absolute;
+}
+
 /* Dropdown Nav */
 .dropdown:hover .dropdown-content {
     display: block;
