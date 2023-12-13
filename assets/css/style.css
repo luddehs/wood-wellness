@@ -113,8 +113,13 @@ section {
 #about {
     position: relative;
     padding: 10px 0 0 0;
-
 }
+
+#about-photo img {
+    width: 100%;
+}
+
+
 
 #about-text {
     background-color: rgba(132, 132, 132, 0.7);
@@ -131,6 +136,15 @@ section {
     color: #ffffff;
 }
 
+/* Design Page */
+#design-photos img {
+    width: 100%;
+    line-height: 1em;
+}
+
+#design-photos {
+    line-height: 0;
+}
 
 
 /* Footer */
