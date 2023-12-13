@@ -70,8 +70,9 @@ nav {
 /* General Styles */
 body {
     min-height: 100vh;
-    display: flex;
+    /* display: flex; */
     flex-direction: column;
+    
     /* Generic project styles */
     font-family: 'Figtree', sans-serif;
 }
@@ -83,18 +84,33 @@ h1, h2, h3 {
 
 }
 
-/* Main Content */
+
+/* Main Content 
 main { 
-    /* Make main element pushes footer down */
+    
     flex: 1 0 auto;
     margin-top: 47px;
+} 
+*/
+
+
+section {
+    display: block;
 }
+
+
+
 
 /* Hero section */
 #hero {
     height: 600px;
     width: 100%;
     background: url("../images/hero-image.JPEG") no-repeat center center/cover;
+    position: relative;
+
+}
+
+#about {
     position: relative;
 
 }
