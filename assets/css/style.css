@@ -30,6 +30,12 @@ header a {
     
 }
 
+#logo {
+    font-size: 240%;
+    line-height: 75px;
+    margin: 0 0.5rem;
+}
+
 /* Navbar */
 nav {
     display: none;
