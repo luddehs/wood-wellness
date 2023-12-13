@@ -171,3 +171,10 @@ footer {
 
 
 }
+
+/* Media query: 992px -> */
+@media screen and (min-width: 992px) {
+    #menu a:hover {
+        border-bottom: 4px dotted #000000;
+    }
+}
