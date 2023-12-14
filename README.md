@@ -24,6 +24,18 @@ Wood Wellness is a website that aims to showcase the desgin, philosophy and work
 
 ![Philosophy/About Section]
 
+-### Design/Gallery section
+
+- This section will show varying forms of furniture design through photographs taken in different angles. Each design will have its own name (and a brief description).This section will stretch over the majority of space on the website.
+
+![Design/Gallery section]
+
+-### Contact/Connect
+This section will encourage the user to contact Eric, either through direct contact information, social media or through a form where the user can upload ideas with a request.
+
+
+![Contact/Connect section]
+
 -### The Footer
 
   Here the user will find links to social media by clicking the icons which will open up a new tab. Includes facebook and instagram pages
