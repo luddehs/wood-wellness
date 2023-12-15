@@ -52,6 +52,7 @@ This section will encourage the user to contact Eric, either through direct cont
 ### Unfixed Bugs
 - Navigation bar dropdown meny wont toggle vertically
 - Logo and header change posittion and size when dropdown target icon appear
+- Philosophy section does not respond well on smaller screens
 
 ### Fixed Bugs
 

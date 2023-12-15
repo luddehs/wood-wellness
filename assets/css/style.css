@@ -78,7 +78,7 @@ section {
 }
 
 
-/* Hero section */
+/* Philosophy section */
 #hero {
     height: 600px;
     width: 100%;
@@ -86,28 +86,31 @@ section {
     position: relative;
 }
 
-#about-nav-target {
+/*#philosophy-nav-target {
+    position: relative;
+}*/
+
+#philosophy-photo {
+    height: 600px;
+    width: 100%;
+    background: url("../images/philosophy-image.jpg") no-repeat center center/cover;
     position: relative;
 }
 
-#about-photo img {
-    width: 100%;
-}
-
-#about-text {
-    background-color: rgba(150, 169, 164, 0.8);
-    font-size: 110%;
+#philosophy-text {
+    background-color: rgba(68, 68, 68, 0.7);
     position: absolute;
-    bottom: 30px;
-    width: 60%;
+    bottom: 10px;
     min-height: 280px;
     padding-top: 38px;
     padding-left: 30px;
     padding-right: 28px;
+    
 }
 
-#about-text > h2, #about-text > p {
+#philosophy-text > h2, #philosophy-text > p {
     color: #ffffff;
+    
 }
 
 /* Design Page */
@@ -214,6 +217,9 @@ footer {
     #design-photos {
         column-count: 2;
         column-gap: 0;
+    }
+    p {
+        max-width: 65%;
     }
 }
 
