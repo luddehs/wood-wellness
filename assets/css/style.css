@@ -98,10 +98,10 @@ section {
     background-color: rgba(150, 169, 164, 0.8);
     font-size: 110%;
     position: absolute;
-    bottom: 20px;
+    bottom: 30px;
     width: 60%;
-    min-height: 200px;
-    padding-top: 40px;
+    min-height: 280px;
+    padding-top: 38px;
     padding-left: 30px;
     padding-right: 28px;
 }
