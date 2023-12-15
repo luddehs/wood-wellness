@@ -1,76 +1,80 @@
 # Wood Wellness
 
-## Intro
-Wood Wellness is a website that aims to showcase the desgin, philosophy and workprocess of the talented furniture designer Eric Holmberg. The site is intended for users who seeks to purchase a certain design or to find the right designer to hire for certain projects. Wood Wellnes includes a philosphy/about section, showing of Erics passion with the goal to inspire the user. The Gallery/design section serves as a digital gallery to exhibit a diverse range of designs. The contact/connect section let's the user easily tet in touch for inquiries or collaborations.  
+    Wood Wellness is a website that aims to showcase the philosophy and work process of their furniture design. The site is intended for users who seek to purchase a certain design or to find the right designer to hire for projects. Wood Wellness includes a philosophy section, showing the designers passion with the goal to inspire the user. The design section serves as a digital gallery to exhibit a diverse range of designs. The connect section lets the user easily get in touch for inquiries or collaborations.
+
+Live link to website - [Wood Wellness](https://luddehs.github.io/Wood-Wellness/)
+
+![Wood Wellnes Responsive]()
 
 ## Features
 
-### Existing Features
-
--### Navigation
-  The navigation bar is fully responsive across all devices, fixed position showing at the top of the page as the user navigates on every section of the website. Links to the logo, philosophy/about, gallery/design, and contact/connect is included.
-  A dropdown menu will show when clicking the gallery/design link. Further links to different designs will show, leading to the section of the right section of the page, letting the user easily navigate each section
+### Navigation
+     The navigation bar is fully responsive across all devices, with a fixed position showing at the top of the page as the user navigates on every section of the website. Links to the logo, philosophy, design, and connect are included. A dropdown menu will show in the right corner on smaller screens letting the user easily navigate each section.
 
 ![Nav Bar]
 
--### The Landing Page Image
-  The user is met by an inviting image highlighting furniture design that aims to calm the senses. The photograph provides the user with a clean and clear visual representation of the purpose of the site, it grabs their attention and sparks curiosity to explore further designs.
+### The Landing Page Image
+     The user is met by an inviting image highlighting furniture design that aims to calm the senses. The photograph provides the user with a clean and clear visual representation of the purpose of the site, it grabs their attention and sparks curiosity to explore further designs.
 
 ![Landing Page]
 
--### Philosophy/About Section
+### Philosophy Section
+    In this section the user is encouraged to read a short text that tells the story and philosophy of Wood Wellness. It will allow the user to see the vision of the designer and what he strives for in each project. The text hover over an image showing a workshop.
 
-  In this section the user is encouraged to read a short text that tells the story and philosophy of Eric and his work. It will allow the user to see Eric's vision and what he strives for in each project. The text that hover over a detailed image showing design.
+![Philosophy Section]
 
-![Philosophy/About Section]
+### Design section
+    This section will show varying forms of furniture design through photographs taken in different angles. The photos will show in columns on bigger screens.
 
--### Design/Gallery section
+![Design section]
 
-- This section will show varying forms of furniture design through photographs taken in different angles. Each design will have its own name (and a brief description).This section will stretch over the majority of space on the website.
+### Connect
+    The users are encouraged to book a consultation in the last section of the website. This is done through a form where the user must leave their contact information and request a specific date and time.
 
-![Design/Gallery section]
+![Connect section]
 
--### Contact/Connect
-This section will encourage the user to contact Eric, either through direct contact information, social media or through a form where the user can upload ideas with a request.
-
-
-![Contact/Connect section]
-
--### The Footer
-
-  Here the user will find links to social media by clicking the icons which will open up a new tab. Includes facebook and instagram pages
-  This will encourage the user to connect and follow Eric on social media.
+### The Footer
+    In the footer the user can find links to facebook and instagram by clicking the icons which will open them up in a new tab. This will encourage the user to connect and follow Wood Wellness on social media.
 
 ![The Footer]
 
 ### Features Left to Implement
+    - Contact information in footer.
+    - Text message request in form.
+    - Detailed information of each design.
 
 ## Testing
 
 ### Validator Testing
 
-### Unfixed Bugs
-- Navigation bar dropdown meny wont toggle vertically
-- Logo and header change posittion and size when dropdown target icon appear
-- Philosophy section does not respond well on smaller screens
+#### HTML
+    - No errors in found the official W3C Markup Validator
+    - [W3C Validator Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fluddehs.github.io%2FWood-Wellness%2F) 
+
+#### CSS
+    - No errors in found the official W3C CSS Validator
+    - [W3C CSS Validator Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fluddehs.github.io%2FWood-Wellness%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
 
 ### Fixed Bugs
+    - Navigation bar dropdown meny would not toggle vertically at first. In the end it was caused by a typo.
+    - Philosophy section did not respond as expected on smaller screens. This was resolved by switching the <section> to a <div> element.
 
 ## Deployment
 
 The project was deployed using GitHub pages. Follow these steps to deploy using GitHub pages:
 
-1. Go to the repository on GitHub.com
-2. Select 'Settings' near the top of the page.
-3. Select 'Pages' from the menu bar on the left of the page.
-4. Under 'Source' select the 'Branch' dropdown menu and select the main branch.
-5. Once selected, click the 'Save'.
-6. Deployment should be confirmed by a message on a green background saying "Your site is published at" followed by the web address.
+1. Go to GitHub.com and open the repository
+2. Near the top of the page, select 'Settings'.
+3. Select 'Pages' on the left of the page from the menu bar.
+4. Select the 'Branch' dropdown menu and select the main branch then save.
+5. A message saying "Your site is published at" followed by the web address, will confirm deployment.
 
-The live link can be found here - [Wood Wellness](https://luddehs.github.io/Wood-Wellness/)
+Live link to website - [Wood Wellness](https://luddehs.github.io/Wood-Wellness/)
 
 ## Credits
 
-### Content
-
 ### Media
+All images of designs were sourced from Eric Holmberg, designer at Wood Wellness
+
+- [Unsplash](https://unsplash.com)
+  - Barn Images - Philisophy Image
