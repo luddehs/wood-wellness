@@ -22,27 +22,17 @@
         <label for="nav-dropdown" class="nav-dropdown-label"><i class="fa-solid fa-ellipsis"></i></label>
         <nav>
             <ul id="menu">
-                <li>
+                <!--<li>
                     <a href="index.html" class="selected">Home</a>
-                </li>
+                </li>-->
                 <li>
                     <a href="#about-nav-target">About</a>
                 </li>
                 <li class="dropdown">
                     <a href="#design-nav-target">Design</a>
-                    <!-- <div class="dropdown-content">
-                        <a href="#design-1">Design 1</a>
-                        <a href="#design-2">Design 2</a>
-                        <a href="#design-3">Design 3</a>
-                        <a href="#design-4">Design 4</a>
-                        <a href="#design-5">Design 5</a>
-                        <a href="#design-6">Design 6</a>
-                        <a href="#design-7">Design 7</a>
-                        <a href="#design-8">Design 8</a>
-                    </div> -->
                 </li>
                 <li>
-                    <a href="">Connect</a>
+                    <a href="#connect-nav-target">Connect</a>
                 </li>
             </ul>
         </nav>
@@ -53,7 +43,7 @@
     <!-- End Hero Image -->
     
     <!-- Start About Section -->
-    <section id="about">
+    <section id=about-nav-target>
         <div id="about-photo">
             <img src="assets/images/about-image.jpg" alt=" Image of a woodworking workshop">
             <div id="about-text">
@@ -68,7 +58,7 @@
     </section>
     <!-- End About Section -->
 
-    <section id="design">
+    <section id="design-nav-target">
         <div id="design-photos">
     
             <img src="assets/images/stol-image-1.JPEG" alt="Image of chair design-1">
@@ -95,42 +85,40 @@
     </section>
 
     <section>
-        <section id="connect">
+        <section id="connect-nav-target">
             <form id="connect-form" method="POST" action="https://formdump.codeinstitute.net">
                 <h2>Book a consultation</h2>
-                <br>
-                <div>
-                    <label for="full-name">Full Name</label>
-                    <input type="text" name="full-name" id="full-name" class="text-input" required>
+                <div class="split-connect">
+                    <div>
+                        <label for="full-name">Full Name</label>
+                        <input type="text" name="full-name" id="full-name" class="text-input" required>
+                    </div>
+                    <div>
+                        <label for="phone-number">Phone Number</label>
+                        <input type="text" name="phone-number" id="phone-number" class="text-input" required>
+                    </div>
+                    <div>
+                        <label for="email-address">Email Address</label>
+                        <input type="email" name="email-address" id="email-address" class="text-input" required>
+                    </div>
                 </div>
-                <br>
-                <div>
-                    <label for="phone-number">Phone Number</label>
-                    <input type="text" name="phone-number" id="phone-number" class="text-input" required>
-                </div>
-                <br>
-                <div>
-                    <label for="email-address">Email Address</label>
-                    <input type="email" name="email-address" id="email-address" class="text-input" required>
-                </div>
-                <br>
                 <!--<div>
                     <label for="consultation-description"></label>
                     <textarea id="consultation-description" name="consultation-description"
                     placeholder="Consultation description"></textarea>
+                </div>-->
+                <div class="split-connect">
+                    <div>
+                        <label for="date">Date</label>
+                        <input type="date" name="date" value="date" class="date" required ></input>
+                    </div>
+                    <div>
+                        <label for="time">Time</label>
+                        <input type="time" name="time" value="time" class="time" required></input>
+                    </div>
+                    <br>
+                    <button type="submit" class="join-button">Book now</button>
                 </div>
-                <br>-->
-                <div class="date">
-                    <label for="date">Date:</label>
-                    <input type="date" name="date" value="" required></input>
-                </div>
-                <br>
-                <div>
-                    <label for="time">Time:</label>
-                    <input type="time" name="time" value="" required></input>
-                </div>
-                <br>
-                <button type="submit" class="join-button">Book now</button>
             </form>
         </section>
     </section>
