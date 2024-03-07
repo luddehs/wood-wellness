@@ -168,6 +168,12 @@ section {
     margin: 5px 0 20px 0;
 }
 
+.text-input:focus,
+.date-time:focus {
+  outline: 2px solid #283834;
+  outline-offset: -2px;
+}
+
 .book-button {
     font-family: 'Figtree', sans-serif;
     margin-top: 20px;
