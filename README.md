@@ -55,6 +55,26 @@ Table of Contents
   * [Acknowledgments](#acknowledgments)
 
 
+
+## Site Owner Goals 
+- To provide the user with a website showcasing furniture designs by Wood Wellness
+- To raise brand awareness and accentuate brand identity through the use of appropriate colours imagery and text.
+- To present the user with a website that is easy to navigate, fully responsive and has a clear purpose.
+- To enable the user to book an appointment for consultation.
+  
+
+## Design
+
+
+### Imagery
+
+
+### Colours
+
+
+### Fonts
+
+
 ### Wireframes
 
 Wireframes were produced using Balsamiq.
