@@ -55,6 +55,27 @@ Table of Contents
   * [Acknowledgments](#acknowledgments)
 
 
+### Wireframes
+
+Wireframes were produced using Balsamiq.
+
+ <details>
+
+ <summary>Desktop Wireframe</summary>
+
+ ![Desktop Wireframe](docs/wireframes/wireframe_1.png)
+
+</details>
+
+<details>
+
+<summary>Mobile Wireframe</summary>
+
+ ![Mobile Wireframe](docs/wireframes/wireframe_2.png)
+
+</details>
+
+
 ## Features
 
 ### Navigation
