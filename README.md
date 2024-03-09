@@ -4,6 +4,8 @@ Wood Wellness is a website that aims to showcase the philosophy and work process
 
 Live link to website - [Wood Wellness](https://luddehs.github.io/Wood-Wellness/)
 
+![Wood Wellness Am I Responsive Image](docs/readme_images/responsive.png)
+
 Table of Contents
 
   * [Site Owner Goals](#site-owner-goals)
@@ -11,17 +13,14 @@ Table of Contents
     + [Imagery](#imagery)
     + [Colour Scheme](#colour-scheme)
     + [Fonts](#fonts)
-    + [Layout](#layout)
     + [Wireframes](#wireframes)
   * [Features](#features)
-    + [Home Page](#home-page)
-    + [How to Play Page](#how-to-play-page)
-    + [Leaderboard](#leaderboard)
-    + [Game Selection](#game-selection)
-    + [Game Area](#game-area)
-      - [Easy Game](#easy-game)
-      - [Hard Game](#hard-game)
-    + [Game Over](#game-over)
+    + [Navigation](#navigation)
+    + [Landing Page Image](#landing-page-image)
+    + [Philosophy Section](#philosophy-section)
+    + [Design Section](#design-section)
+    + [Connect Form](#connect-form)
+    + [Footer](#Footer)
     + [Features Left to Implement](#features-left-to-implement)
   * [Testing](#testing)
     + [Validator Testing](#validator-testing)
@@ -64,7 +63,7 @@ Table of Contents
 ### Imagery
 The imagery used on the Wood Wellness website is vital for the user to grasp the different designs and for the overall experience. The furniture design photos was taken on various occations in different locations. Multiple angles were shot in daylight to highlight every detail of each design. 
 
-### Colours
+### Colour Scheme
 The colour scheme of the site was given careful consideration to ensure they compliment the imagery and invoke a sense of calm to the user. A mixture of dark on lighter colors and vice versa, gives contrast to each section and element. To enhance the designs made from various wood species, the chosen colours were inspired by elements from nature with a metallic tone.
 
 ![Colour Scheme](docs/readme_images/colours.png)
@@ -96,20 +95,32 @@ The Figtree font is the main font used throughout the whole website, and appropr
 ### Navigation
 The navigation bar is fully responsive across all devices, with a fixed position showing at the top of the page as the user navigates on every section of the website. Links to the logo, philosophy, design, and connect are included. A dropdown menu will show in the right corner on smaller screens letting the user easily navigate each section.
 
-### The Landing Page Image
+![Navigation](docs/readme_images/navigation.png)
+
+### Landing Page Image
 The user is met by an inviting image highlighting furniture design that aims to calm the senses. The photograph provides the user with a clean and clear visual representation of the purpose of the site, it grabs their attention and sparks curiosity to explore further designs.
+
+![Landing Page Image](docs/readme_images/landing_page_image.png)
 
 ### Philosophy Section
 In this section the user is encouraged to read a short text that tells the story and philosophy of Wood Wellness. It will allow the user to see the vision of the designer and what he strives for in each project. The text hover over an image showing a workshop.
 
-### Design section
+![Philosophy Section](docs/readme_images/philosophy_section.png)
+
+### Design Section
 This section will show varying forms of furniture design through photographs taken in different angles. The photos will show in columns on bigger screens.
 
-### Connect
+![Design Section](docs/readme_images/design_section.png)
+
+### Connect Form
 The users are encouraged to book a consultation in the last section of the website. This is done through a form where the user must leave their contact information and request a specific date and time.
 
-### The Footer
+![Connect Form](docs/readme_images/connect_form.png)
+
+### Footer
 In the footer the user can find links to facebook and instagram by clicking the icons which will open them up in a new tab. This will encourage the user to connect and follow Wood Wellness on social media.
+
+![Footer](docs/readme_images/footer.png)
 
 ### Features Left to Implement
 - Contact information in footer.
@@ -128,6 +139,7 @@ In the footer the user can find links to facebook and instagram by clicking the 
 #### CSS
 - No errors in found the official W3C CSS Validator.
 - [W3C CSS Validator Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fluddehs.github.io%2FWood-Wellness%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
+
 
 ### Fixed Bugs
 - Navigation bar dropdown meny would not toggle vertically at first. In the end it was caused by a typo.
