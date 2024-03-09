@@ -7,10 +7,6 @@ Live link to website - [Wood Wellness](https://luddehs.github.io/Wood-Wellness/)
 Table of Contents
 
   * [Site Owner Goals](#site-owner-goals)
-  * [User Stories](#user-stories)
-    + [First Time User](#first-time-user)
-    + [Returning user](#returning-user)
-    + [Frequent user](#frequent-user)
   * [Design](#design)
     + [Imagery](#imagery)
     + [Colour Scheme](#colour-scheme)
@@ -65,19 +61,18 @@ Table of Contents
 
 ## Design
 
-
 ### Imagery
-
+The imagery used on the Wood Wellness website is vital for the user to grasp the different designs and for the overall experience. The furniture design photos was taken on various occations in different locations. Multiple angles were shot in daylight to highlight every detail of each design. 
 
 ### Colours
+The colour scheme of the site was given careful consideration to ensure they compliment the imagery and invoke a sense of calm to the user. A mixture of dark on lighter colors and vice versa, gives contrast to each section and element. To enhance the designs made from various wood species, the chosen colours were inspired by elements from nature with a metallic tone.
 
+![Colour Scheme](docs/readme_images/colours.png)
 
 ### Fonts
-
+The Figtree font is the main font used throughout the whole website, and appropriately enough it's named after a tree. This font was imported via [Google Fonts](https://fonts.google.com/). The Sans Serif font is used a backup, in case for any reason the main font isn't being imported into the site correctly.
 
 ### Wireframes
-
-Wireframes were produced using Balsamiq.
 
  <details>
 
