@@ -140,6 +140,10 @@ In the footer the user can find links to facebook and instagram by clicking the 
 - No errors in found the official W3C CSS Validator.
 - [W3C CSS Validator Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fluddehs.github.io%2FWood-Wellness%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
 
+#### Accessibility 
+- The site achieved a Lighthouse accessibility score of 100% which confirms that the colours and fonts chosen are easy to read and accessible
+
+![Lighthouse score](docs/readme_images/lighthouse.png)
 
 ### Fixed Bugs
 - Navigation bar dropdown meny would not toggle vertically at first. In the end it was caused by a typo.
