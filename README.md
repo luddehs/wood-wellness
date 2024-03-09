@@ -63,7 +63,7 @@ Wireframes were produced using Balsamiq.
 
  <summary>Desktop Wireframe</summary>
 
- ![Desktop Wireframe](docs/wireframes/wireframe_1.png)
+ ![Desktop Wireframe](docs/wireframes/wireframe_1.jpg)
 
 </details>
 
@@ -71,7 +71,7 @@ Wireframes were produced using Balsamiq.
 
 <summary>Mobile Wireframe</summary>
 
- ![Mobile Wireframe](docs/wireframes/wireframe_2.png)
+ ![Mobile Wireframe](docs/wireframes/wireframe_2.jpg)
 
 </details>
 
