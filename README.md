@@ -90,32 +90,32 @@ The Figtree font is the main font used throughout the whole website, and appropr
 ## Features
 
 ### Navigation
-The navigation bar is fully responsive across all devices, with a fixed position showing at the top of the page as the user navigates on every section of the website. Links to the logo, philosophy, design, and connect are included. A dropdown menu will show in the right corner on smaller screens letting the user easily navigate each section.
+The navigation bar is designed to be fully responsive, ensuring a seamless experience across all devices. It maintains a fixed position at the top of the page, allowing users to effortlessly access different sections of the website at any time. The bar includes direct links to the homepage via the logo, as well as to key sections such as Philosophy, Design, and Connect. For enhanced usability on smaller screens, a dropdown menu appears in the right corner, offering users a convenient way to navigate through the site's various sections with ease.
 
 ![Navigation](docs/readme_images/navigation.png)
 
 ### Landing Page Image
-The user is met by an inviting image highlighting furniture design that aims to calm the senses. The photograph provides the user with a clean and clear visual representation of the purpose of the site, it grabs their attention and sparks curiosity to explore further designs.
+The user is met by a captivating image that showcases furniture design in an environment that calms the senses. The photograph provides the user with a clean and clear visual representation of the purpose of the site, it grabs their attention and sparks curiosity to explore additional designs.
 
 ![Landing Page Image](docs/readme_images/landing_page_image.png)
 
 ### Philosophy Section
-In this section the user is encouraged to read a short text that tells the story and philosophy of Wood Wellness. It will allow the user to see the vision of the designer and what he strives for in each project. The text hover over an image showing a workshop.
+In this section, users are encouraged to read a short text that tells the story and philosophy behind Wood Wellness. It offers insight into the designer's vision and the aspirations driving each project, providing a deeper understanding of the creative process. Accompanying the text, an image of a workshop is displayed.
 
 ![Philosophy Section](docs/readme_images/philosophy_section.png)
 
 ### Design Section
-This section will show varying forms of furniture design through photographs taken in different angles. The photos will show in columns on bigger screens.
+This section is designed to showcase a diverse range of furniture designs, presented through photographs captured from various angles. On larger screens, these images will be displayed in columns.
 
 ![Design Section](docs/readme_images/design_section.png)
 
 ### Connect Form
-The users are encouraged to book a consultation in the last section of the website. This is done through a form where the user must leave their contact information and request a specific date and time.
+In the final section of the website, users are encouraged to book a consultation. This process is facilitated through a form, where users are asked to provide their contact details and select a preferred date and time for their appointment.
 
 ![Connect Form](docs/readme_images/connect_form.png)
 
 ### Footer
-In the footer the user can find links to facebook and instagram by clicking the icons which will open them up in a new tab. This will encourage the user to connect and follow Wood Wellness on social media.
+Within the footer, users can easily access Wood Wellness's social media profiles on Facebook and Instagram by clicking on the respective icons. These links open in new tabs, encouraging users to connect with and follow Wood Wellness on social media platforms.
 
 ![Footer](docs/readme_images/footer.png)
 
