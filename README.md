@@ -1,6 +1,9 @@
 # Wood Wellness
 
-Wood Wellness is a website that aims to showcase the philosophy and work process of their furniture design. The site is intended for users who seek to purchase a certain design or to find the right designer to hire for projects. Wood Wellness includes a philosophy section, showing the designers passion with the goal to inspire the user. The design section serves as a digital gallery to exhibit a diverse range of designs. The connect section lets the user easily get in touch for inquiries or collaborations.
+The Wood Wellness website is dedicated to exhibit the philosophy and work process behind their furniture design. The site is intended for an audience who seek to purchase a specific design that resonates with their aesthetic and functional needs or to find the right designer to hire for projects. Wood Wellness includes a philosophy section, showing the designers passion with the goal to inspire the user. The design section serves as a digital gallery to exhibit a diverse range of designs. The connect section lets the user easily get in touch for inquiries or collaborations.
+
+Whether you are looking to purchase a ready-made piece, commission a custom design, or simply explore contemporary furniture design, Wood Wellness welcomes you to discover the style and depth of their craft.
+
 
 Live link to website - [Wood Wellness](https://luddehs.github.io/Wood-Wellness/)
 
