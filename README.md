@@ -122,43 +122,47 @@ Within the footer, users can easily access Wood Wellness's social media profiles
 ### Features Left to Implement
 - Contact information in footer.
 - Text message request in form.
-- Detailed information of each design.
-- Screenshots on README.md.
+- Detailed description of each design.
 
 ## Testing
 
 ### Validator Testing
 
 #### HTML
-- No errors in found the official W3C Markup Validator.
+- No errors were returned when passing through the official W3C Markup Validator.
 - [W3C Validator Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fluddehs.github.io%2FWood-Wellness%2F) 
 
 #### CSS
-- No errors in found the official W3C CSS Validator.
+- No errors were found when passing through the official W3C CSS Validator.
 - [W3C CSS Validator Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fluddehs.github.io%2FWood-Wellness%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
 
 #### Accessibility 
-- The site achieved a Lighthouse accessibility score of 100% which confirms that the colours and fonts chosen are easy to read and accessible
+- The site achieved a Lighthouse accessibility score of 100%, verifying that the selected colors and fonts are easily readable and accessible.
 
 ![Lighthouse score](docs/readme_images/lighthouse.png)
 
 ### Form Testing
-
+- The form has been tested to ensure it will not submit unless the mandatory fields (full name, phone number, email address, date and time) are completed.
 
 ### Links Testing
- 
+- Each navigation link underwent manual testing to ensure the user is directed to the correct section of the website.
+- The social media links located in the footer were manually tested to ensure they lead users to the appropriate page and open in a new window.
 
 ### Browser Testing
-
+- The website underwent testing across Google Chrome, Firefox, Microsoft Edge, and Safari browsers without any issues detected.
     
 ### Device Testing
-
+- The website was tested across multiple devices, including Desktop, Laptop, IPhone, IPad and Android devices, to ensure responsiveness on various screen sizes. It functioned as expected, except for one minor bug stated in [Known Bugs](#known-bugs). Additionally, its responsive design was evaluated using Chrome Developer Tools for various devices, maintaining structural consistency across all sizes.
+- To further test responsiveness, I used the following websites:
+  - [Am I Responsive](https://ui.dev/amiresponsive?url=https://luddehs.github.io/Wood-Wellness/)
+  - [Responsinator](http://www.responsinator.com/?url=https%3A%2F%2Fluddehs.github.io%2FWood-Wellness%2F)
 
 ### Fixed Bugs
-- Navigation bar dropdown meny would not toggle vertically at first. In the end it was caused by a typo.
-- Philosophy section did not respond as expected on smaller screens. This was resolved by switching the <section> to a <div> element.
+- Initially, the navigation bar's dropdown menu failed to toggle vertically due to a typo. This issue has been corrected.
+- The Philosophy section was not displaying correctly on smaller screens. By changing to a <div> element, this problem has been successfully resolved.
 
 ### Known Bugs
+- Modify the column count for the Design section within media queries to eliminate empty space across various screen sizes.
 
 ## Technologies Used
 
@@ -167,6 +171,16 @@ Within the footer, users can easily access Wood Wellness's social media profiles
 - CSS
 
 ### Frameworks - Libraries - Programs Used
+
+- [GitHub](https://github.com/) - Used for version control and hosting.
+- [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) - Used for overall development and tweaking, including responsiveness and performance testing.
+- [Google Fonts](https://fonts.google.com/) - Used to import and alter fonts on the page.
+- [Font Awesome](https://fontawesome.com/) - Used for Social Media icons in footer.
+ -[My Color](https://mycolor.space/) - Used to find matching colour palettes.
+- [Am I Responsive](http://ami.responsivedesign.is/) - Used to assess the website's responsiveness across various devices.
+- [Responsinator](http://www.responsinator.com/) - Used to assess the website's responsiveness across various devices.
+- [TinyPNG](https://tinypng.com/) - Used for image compression to decrease file size while maintaining image quality.
+- [W3C](https://www.w3.org/) - Used for HTML & CSS Validation.
 
 ## Deployment
 
