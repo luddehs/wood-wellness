@@ -23,7 +23,7 @@ Table of Contents
     + [Philosophy Section](#philosophy-section)
     + [Design Section](#design-section)
     + [Connect Form](#connect-form)
-    + [Footer](#Footer)
+    + [Footer](#footer)
     + [Features Left to Implement](#features-left-to-implement)
   * [Testing](#testing)
     + [Validator Testing](#validator-testing)
@@ -215,4 +215,5 @@ The [Philosophy Section image](#philosophy-section) were sourced from the follow
 ## Acknowledgments
 
 Thanks to my mentor, Antonio, for his guidance and support.
+
 Thanks to the Code Institute Slack community for their quick responses and very helpful feedback!
