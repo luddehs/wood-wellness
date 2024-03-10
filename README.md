@@ -197,13 +197,22 @@ Live link to website - [Wood Wellness](https://luddehs.github.io/Wood-Wellness/)
 ## Credits
 
 ### Content
+The Wood Wellness site drew inspiration from the following website: 
+- [Möbelverket](https://www.mobelverket.se/)
 
 ### Media
-All images of designs were sourced from Eric Holmberg, designer at Wood Wellness.
+All [images of designs](#design-section) were sourced from Eric Holmberg, designer at Wood Wellness.
 
+The [Philosophy Section image](#philosophy-section) were sourced from the following website:
 - [Unsplash](https://unsplash.com)
-  - Barn Images - Philisophy Image
+  - Barn Images - Philosophy image
 
-  ### Resources Used
 
-  ## Acknowledgments
+### Resources Used
+- [Stack Overflow](https://stackoverflow.com/)
+- [W3Schools](https://www.w3schools.com/)
+
+## Acknowledgments
+
+Thanks to my mentor, Antonio, for his guidance and support.
+Thanks to the Code Institute Slack community for their quick responses and very helpful feedback!
