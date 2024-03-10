@@ -26,23 +26,17 @@ Table of Contents
     + [Validator Testing](#validator-testing)
       - [HTML](#html)
       - [CSS](#css)
-      - [Javascript](#javascript)
       - [Accessibility](#accessibility)
-    + [Input Testing](#input-testing)
-    + [Button Testing](#button-testing)
-    + [Game Testing](#game-testing)
+    + [Form Testing](#form-testing)
+    + [Links Testing](#links-testing)
     + [Browser Testing](#browser-testing)
     + [Device Testing](#device-testing)
     + [Fixed Bugs](#fixed-bugs)
-      - [SetTimeout() method on incorrect cards](#settimeout---method-on-incorrect-cards)
-      - [Making a Deep Clone of an Object](#making-a-deep-clone-of-an-object)
-      - [Username Input Data Validation](#username-input-data-validation)
     + [Known Bugs](#known-bugs)
   * [Technologies Used](#technologies-used)
     + [Languages](#languages)
     + [Frameworks - Libraries - Programs Used](#frameworks---libraries---programs-used)
   * [Deployment](#deployment)
-  * [Cloning](#cloning)
   * [Credits](#credits)
     + [Content](#content)
     + [Media](#media)
@@ -145,9 +139,31 @@ In the footer the user can find links to facebook and instagram by clicking the 
 
 ![Lighthouse score](docs/readme_images/lighthouse.png)
 
+### Form Testing
+
+
+### Links Testing
+ 
+
+### Browser Testing
+
+    
+### Device Testing
+
+
 ### Fixed Bugs
 - Navigation bar dropdown meny would not toggle vertically at first. In the end it was caused by a typo.
 - Philosophy section did not respond as expected on smaller screens. This was resolved by switching the <section> to a <div> element.
+
+### Known Bugs
+
+## Technologies Used
+
+### Languages
+- HTML5
+- CSS
+
+### Frameworks - Libraries - Programs Used
 
 ## Deployment
 
@@ -163,8 +179,14 @@ Live link to website - [Wood Wellness](https://luddehs.github.io/Wood-Wellness/)
 
 ## Credits
 
+### Content
+
 ### Media
 All images of designs were sourced from Eric Holmberg, designer at Wood Wellness.
 
 - [Unsplash](https://unsplash.com)
   - Barn Images - Philisophy Image
+
+  ### Resources Used
+
+  ## Acknowledgments
